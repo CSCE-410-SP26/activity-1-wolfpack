@@ -1,0 +1,23 @@
+1. Number of files in root directory: [count from your ls output]
+
+6
+
+2. Available user programs in xv6: [list programs you see from ls]
+
+24
+
+BONUS:
+
+usertests:
+- tests many different aspects of the system. Specifically, tests process creation.
+
+forktest:
+- took < 1 second 
+- tests the ability to fork
+- output: $ forktest
+fork test
+fork test OK
+
+stressfs:
+- took < 1 second
+- stress tests file system
